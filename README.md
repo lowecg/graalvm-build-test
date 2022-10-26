@@ -21,5 +21,5 @@ bb hl:compile && bb hl:native:executable
 ```
 
 
-The project is based on holy-lambda documentation is available [here](https://fierycod.github.io/holy-lambda).
+The project is based on holy-lambda. Documentation is available [here](https://fierycod.github.io/holy-lambda).
 
