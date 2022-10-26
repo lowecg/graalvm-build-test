@@ -1,0 +1,39 @@
+[ {
+  "name" : "[B"
+}, {
+  "name" : "[C"
+}, {
+  "name" : "[D"
+}, {
+  "name" : "[F"
+}, {
+  "name" : "[I"
+}, {
+  "name" : "[J"
+}, {
+  "name" : "[Lcom.fasterxml.jackson.databind.deser.Deserializers;"
+}, {
+  "name" : "[Lcom.fasterxml.jackson.databind.deser.KeyDeserializers;"
+}, {
+  "name" : "[Lcom.fasterxml.jackson.databind.deser.ValueInstantiators;"
+}, {
+  "name" : "[Lcom.fasterxml.jackson.databind.ser.Serializers;"
+}, {
+  "name" : "[Ljava.lang.Object;"
+}, {
+  "name" : "[S"
+}, {
+  "name" : "[Z"
+}, {
+  "name" : "com.fasterxml.jackson.databind.ext.Java7SupportImpl",
+  "methods" : [ {
+    "name" : "<init>",
+    "parameterTypes" : [ ]
+  } ]
+}, {
+  "name" : "java.lang.reflect.AccessibleObject",
+  "methods" : [ {
+    "name" : "canAccess",
+    "parameterTypes" : [ "java.lang.Object" ]
+  } ]
+} ]
