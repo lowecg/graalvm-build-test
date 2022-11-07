@@ -1,4 +1,4 @@
-{:deps           {io.github.FieryCod/holy-lambda-babashka-tasks {:git/url "https://github.com/lowecg/holy-lambda" :deps/root "./modules/holy-lambda-babashka-tasks" :sha "3644bb97ae1c143623a95920b6a5ccbb0bf48ddc"}
+{:deps           {io.github.FieryCod/holy-lambda-babashka-tasks {:git/url "https://github.com/lowecg/holy-lambda" :deps/root "./modules/holy-lambda-babashka-tasks" :sha "569868b371189b52c6ce7a867a504e377e00092c"}
                   io.github.FieryCod/holy-lambda                {:mvn/version "0.6.7"}}
 
  ;; Minimal babashka version which should be used in conjunction with holy-lambda
